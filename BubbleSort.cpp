@@ -1,3 +1,4 @@
+//相邻关键字进行比较，一趟把最大的值放在最后面
 #include<iostream>
 
 using namespace std;
